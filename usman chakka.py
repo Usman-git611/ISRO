@@ -1,0 +1,1 @@
+print("Usman chakka hai")
