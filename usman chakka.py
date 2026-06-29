@@ -1,5 +1,0 @@
-print("Usman chakka hai")
-print("USMAN - Universal Source of Milk And Nutrition ")
-print("Usman chakka pro max")
-print("Usman handjob professional")
-print("Avinash chakka pro max")
