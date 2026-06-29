@@ -1,1 +1,0 @@
-print("Usman Gawaar hai" )
